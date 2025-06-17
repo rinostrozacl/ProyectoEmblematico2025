@@ -1,12 +1,20 @@
 # Especificaciones UX/UI - Sistema de Agendamiento Proyecto emblemático: Centro Integral Alerce - Vinculación con el medio
 
-## Paleta de Colores Institucional
+## Paleta de Colores Institucional - Universidad Santo Tomás
 
 ### Colores Primarios
 
-- **Azul Institucional**: #003366 (Azul oscuro Santo Tomás)
-- **Azul Secundario**: #0066CC (Azul medio)
+- **Azul Santo Tomás**: #003B73 (Azul institucional principal - basado en sitio oficial)
+- **Azul Secundario**: #0057A8 (Azul medio complementario)
 - **Azul Claro**: #E6F2FF (Para fondos y highlights)
+- **Blanco**: #FFFFFF (Fondo principal y contraste)
+
+### Colores de Apoyo
+
+- **Gris Oscuro**: #2C3E50 (Textos principales)
+- **Gris Medio**: #7F8C8D (Textos secundarios)
+- **Gris Claro**: #F8F9FA (Fondos alternativos)
+- **Gris Borde**: #E9ECEF (Líneas divisorias)
 
 ### Colores de Estado
 
@@ -17,13 +25,13 @@
 
 ### Colores de Actividades (Código de colores para calendario)
 
-- **Capacitación**: #FF6B6B (Coral)
-- **Taller**: #4ECDC4 (Turquesa)
-- **Charlas**: #45B7D1 (Azul claro)
-- **Atenciones**: #96CEB4 (Verde menta)
-- **Operativo**: #FFEAA7 (Amarillo claro)
-- **Práctica profesional**: #DDA0DD (Violeta claro)
-- **Diagnóstico**: #F4A460 (Arena)
+- **Capacitación**: #003B73 (Azul Santo Tomás - actividad principal)
+- **Taller**: #0057A8 (Azul secundario)
+- **Charlas**: #6C9BD1 (Azul claro)
+- **Atenciones**: #28A745 (Verde éxito)
+- **Operativo**: #FFC107 (Amarillo advertencia)
+- **Práctica profesional**: #6F42C1 (Violeta académico)
+- **Diagnóstico**: #FD7E14 (Naranja diagnóstico)
 
 ## Tipografía
 
@@ -126,10 +134,10 @@
 
 #### Jerarquía
 
-- **Primario**: Azul institucional, texto blanco
-- **Secundario**: Borde azul, texto azul, fondo transparente
-- **Terciario**: Solo texto azul, sin bordes
-- **Destructivo**: Rojo, texto blanco
+- **Primario**: Azul Santo Tomás (#003B73), texto blanco
+- **Secundario**: Borde azul Santo Tomás, texto azul, fondo transparente
+- **Terciario**: Solo texto azul Santo Tomás, sin bordes
+- **Destructivo**: Rojo (#DC3545), texto blanco
 
 #### Estados
 
@@ -143,7 +151,7 @@
 #### Campos de Entrada
 
 - **Borde**: 1px solid #E0E0E0
-- **Focus**: Borde azul institucional, sombra sutil
+- **Focus**: Borde azul Santo Tomás (#003B73), sombra sutil
 - **Error**: Borde rojo, mensaje de error debajo
 - **Disabled**: Fondo gris claro, texto gris
 

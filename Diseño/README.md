@@ -8,7 +8,7 @@ Esta carpeta contiene toda la documentación de diseño técnico, arquitectura y
 
 **Guía completa de diseño y experiencia de usuario**:
 
-- Paleta de colores institucional (#003366 azul Santo Tomás)
+- Paleta de colores institucional (#003B73 azul Santo Tomás oficial)
 - Tipografía y jerarquía visual (Roboto)
 - Breakpoints responsivos y componentes
 - Patrones de interacción y navegación
@@ -204,7 +204,7 @@ graph TB
 
 ### Diseño Visual
 
-- [x] **Paleta de colores** - Colores institucionales definidos
+- [x] **Paleta de colores** - Colores institucionales actualizados según Santo Tomás oficial
 - [x] **Tipografía** - Roboto como fuente principal
 - [x] **Componentes** - 20+ componentes especificados
 - [x] **Breakpoints** - 4 tamaños de pantalla
