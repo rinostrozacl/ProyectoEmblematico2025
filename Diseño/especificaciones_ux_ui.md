@@ -4,9 +4,9 @@
 
 ### Colores Primarios
 
-- **Azul Santo Tomás**: #003B73 (Azul institucional principal - basado en sitio oficial)
-- **Azul Secundario**: #0057A8 (Azul medio complementario)
-- **Azul Claro**: #E6F2FF (Para fondos y highlights)
+- **Verde Santo Tomás**: #1B5E20 (Verde institucional principal - basado en sitio oficial)
+- **Verde Secundario**: #2E7D32 (Verde medio complementario)
+- **Verde Claro**: #E8F5E8 (Para fondos y highlights)
 - **Blanco**: #FFFFFF (Fondo principal y contraste)
 
 ### Colores de Apoyo
@@ -25,9 +25,9 @@
 
 ### Colores de Actividades (Código de colores para calendario)
 
-- **Capacitación**: #003B73 (Azul Santo Tomás - actividad principal)
-- **Taller**: #0057A8 (Azul secundario)
-- **Charlas**: #6C9BD1 (Azul claro)
+- **Capacitación**: #1B5E20 (Verde Santo Tomás - actividad principal)
+- **Taller**: #2E7D32 (Verde secundario)
+- **Charlas**: #66BB6A (Verde claro)
 - **Atenciones**: #28A745 (Verde éxito)
 - **Operativo**: #FFC107 (Amarillo advertencia)
 - **Práctica profesional**: #6F42C1 (Violeta académico)
@@ -134,9 +134,9 @@
 
 #### Jerarquía
 
-- **Primario**: Azul Santo Tomás (#003B73), texto blanco
-- **Secundario**: Borde azul Santo Tomás, texto azul, fondo transparente
-- **Terciario**: Solo texto azul Santo Tomás, sin bordes
+- **Primario**: Verde Santo Tomás (#1B5E20), texto blanco
+- **Secundario**: Borde verde Santo Tomás, texto verde, fondo transparente
+- **Terciario**: Solo texto verde Santo Tomás, sin bordes
 - **Destructivo**: Rojo (#DC3545), texto blanco
 
 #### Estados
@@ -151,7 +151,7 @@
 #### Campos de Entrada
 
 - **Borde**: 1px solid #E0E0E0
-- **Focus**: Borde azul Santo Tomás (#003B73), sombra sutil
+- **Focus**: Borde verde Santo Tomás (#1B5E20), sombra sutil
 - **Error**: Borde rojo, mensaje de error debajo
 - **Disabled**: Fondo gris claro, texto gris
 

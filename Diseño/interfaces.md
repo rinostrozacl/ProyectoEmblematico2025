@@ -245,8 +245,8 @@ Conjunto de pantallas para administrar los catálogos del sistema.
 ## Consideraciones de Diseño
 
 - **Paleta de colores institucional de Universidad Santo Tomás**:
-  - Azul principal: #003B73 (elementos principales, botones primarios)
-  - Azul secundario: #0057A8 (elementos complementarios)
+  - Verde principal: #1B5E20 (elementos principales, botones primarios)
+  - Verde secundario: #2E7D32 (elementos complementarios)
   - Colores de apoyo: grises neutros para texto y fondos
   - Mantenimiento de contraste adecuado para accesibilidad
 - **Diseño responsive** para adaptarse a diferentes dispositivos
